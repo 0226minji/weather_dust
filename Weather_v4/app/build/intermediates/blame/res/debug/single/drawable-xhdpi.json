@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clear.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\clear.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clear.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\clear.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snow.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\snow.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snow_rain.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\snow_rain.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rain.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\rain.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snow_rain.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\snow_rain.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mostly_cloudly.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\mostly_cloudly.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\snow.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\snow.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\partly_cloudy.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\partly_cloudy.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mostly_cloudly.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\mostly_cloudly.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\partly_cloudy.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\partly_cloudy.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cloudy.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\cloudy.png"
+    },
+    {
+        "merged": "D:\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rain.png",
+        "source": "D:\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\rain.png"
+    },
+    {
+        "merged": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cloudy.png",
+        "source": "D:\\user\\AndroidstudioProjects\\Weather_v4\\app\\src\\main\\res\\drawable-xhdpi\\cloudy.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Weather_v4\app\src\main\assets"><file name="db/weather.db3" path="D:\Weather_v4\app\src\main\assets\db\weather.db3"/></source><source path="D:\Weather_v4\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Weather_v4\app\src\debug\assets"/></dataSet></merger>
